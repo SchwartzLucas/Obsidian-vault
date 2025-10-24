@@ -1,0 +1,1 @@
+inicializa um novo repositório local na pasta em que você esta mexendo

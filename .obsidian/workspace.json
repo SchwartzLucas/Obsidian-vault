@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "d09c88885cc71bef",
+    "type": "split",
+    "children": [
+      {
+        "id": "053552f356d5ab8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da0b728470e341a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Basics of OPP/Static KeyWord.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Static KeyWord"
+            }
+          },
+          {
+            "id": "e237c6a694fca806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Basics of OPP/Static KeyWord.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Static KeyWord"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30032479a5a107fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "22eae2990a96c76d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1318079dab58a5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "13124dea73330b9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "modifica",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "f417741e92c1354e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76b7fe9a1861d015",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcf286140793f088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32ccf5d3801f0426",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bem-vindo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Bem-vindo"
+            }
+          },
+          {
+            "id": "3f62df983cc35ffd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bem-vindo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Bem-vindo"
+            }
+          },
+          {
+            "id": "9ac861233a304626",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bdf73cf29b0a0690",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bem-vindo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Bem-vindo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Criar nova base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e237c6a694fca806",
+  "lastOpenFiles": [
+    "Java/Basics of OPP/Classes Ands Objects.md",
+    "Java/Basics of OPP/Access Specifiers (Modificadores de acesso).md",
+    "Java/Basics of OPP/Static KeyWord.md",
+    "Java/Basics of OPP",
+    "Expressões Lambda.md",
+    "Sem título.md",
+    "Delegates.md",
+    "Pasted image 20251023210138.png",
+    "Sem título.base",
+    "Git e Github/Gerando uma nova SSH no meu computador.md",
+    "Git e Github/Repositório local e remoto.md",
+    "API em csharp/Pakages.md",
+    "Pasted image 20251023210143.png",
+    "Git e Github/Configuração inicial do Git.md",
+    "Git e Github/Comandos primeira versão de um projeto no Github.md",
+    "Java",
+    "API em csharp/Migrations.md",
+    "Comandos/git checkout -b \"NomeDaBranch.md",
+    "API em csharp",
+    "Comandos/git commit -m \"Mensagem explicativa\".md",
+    "Comandos/Git reset.md",
+    "Comandos/git branch -M main (ou master).md",
+    "Comandos/Git init.md",
+    "Comandos",
+    "Comandos/git add ..md",
+    "Git e Github",
+    "Sem título.canvas",
+    "2025-07-04.md",
+    "Bem-vindo.md",
+    "Home alone.md",
+    "Fisrt Note.md",
+    "Second Note.md"
+  ]
+}

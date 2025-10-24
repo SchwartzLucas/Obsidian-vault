@@ -1,0 +1,1 @@
+Remover arquivos da área de stage
