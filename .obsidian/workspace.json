@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Basics of OPP/Static KeyWord.md",
+                "file": "Java/More of OPP/Inheritance - herança.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Static KeyWord"
+              "title": "Inheritance - herança"
             }
           }
         ],
@@ -186,9 +186,13 @@
   },
   "active": "e237c6a694fca806",
   "lastOpenFiles": [
+    "Java/More of OPP/Object Lifecycle.md",
+    "Java/More of OPP/Inheritance - herança.md",
+    "Java/Basics of OPP/Final KeyWord.md",
+    "Java/More of OPP",
+    "Java/Basics of OPP/Static KeyWord.md",
     "Java/Basics of OPP/Classes Ands Objects.md",
     "Java/Basics of OPP/Access Specifiers (Modificadores de acesso).md",
-    "Java/Basics of OPP/Static KeyWord.md",
     "Java/Basics of OPP",
     "Expressões Lambda.md",
     "Sem título.md",
