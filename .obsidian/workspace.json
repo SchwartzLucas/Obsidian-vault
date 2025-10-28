@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/More of OPP/Method Chaining.md",
+                "file": "Java/More of OPP/Encapsulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Method Chaining"
+              "title": "Encapsulation"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "da0b728470e341a0",
   "lastOpenFiles": [
-    "Java/More of OPP/Abstract.md",
     "Java/More of OPP/Method Chaining.md",
+    "Java/More of OPP/Encapsulation.md",
+    "Java/More of OPP/Abstract.md",
     "Java/Basics of OPP/Static KeyWord.md",
     "Sem título.md",
     "Sem título.base",
@@ -207,7 +208,6 @@
     "Git e Github",
     "Sem título.canvas",
     "2025-07-04.md",
-    "Bem-vindo.md",
-    "Home alone.md"
+    "Bem-vindo.md"
   ]
 }
