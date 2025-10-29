@@ -75,16 +75,19 @@ IntelliJ IDEA	IDE principal usada nos estudos de Java
 Documentar é eternizar o aprendizado.”
 — Lucas Schwartz
 
-👨‍💻 Sobre o Autor
+```
+## 👨‍💻 Sobre o Autor
+
 Sou Lucas Schwartz, estudante de Sistemas de Informação e apaixonado por desenvolvimento, aprendizado contínuo e organização digital.
 Este repositório representa minha trajetória prática no domínio da linguagem Java — do básico ao avançado.
-```
-📍 Blumenau – SC
-📅 Atualizado diariamente
-📫 GitHub
-```
+
+🎓 FURB | Estudante de Sistemas de Informação  
+📍 Blumenau, SC  
+🔗 [LinkedIn](https://www.linkedin.com/in/lucas-schwartz-souza)  
+🐙 [GitHub](https://www.github.com/SchwartzLucas)
+
 📜 Licença
 Este repositório é de uso pessoal e educacional.
 Sinta-se à vontade para se inspirar na estrutura e metodologia, mas mantenha os créditos.
-```
+
 <p align="center"> <sub>Feito com ☕, foco e Obsidian.</sub> </p>
