@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/More of OPP/Interfaces.md",
+                "file": "Java/More of OPP/Enum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interfaces"
+              "title": "Enum"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "da0b728470e341a0",
   "lastOpenFiles": [
-    "Java/More of OPP/Encapsulation.md",
     "Java/More of OPP/Interfaces.md",
+    "Java/More of OPP/Enum.md",
+    "Java/More of OPP/Encapsulation.md",
     "Java/More of OPP/Method Chaining.md",
     "Java/More of OPP/Abstract.md",
     "Java/Basics of OPP/Static KeyWord.md",
@@ -207,7 +208,6 @@
     "Comandos",
     "Comandos/git add ..md",
     "Git e Github",
-    "Sem título.canvas",
-    "2025-07-04.md"
+    "Sem título.canvas"
   ]
 }
