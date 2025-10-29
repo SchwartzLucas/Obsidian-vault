@@ -20,21 +20,21 @@ Aqui registro anotações, conceitos, exemplos e reflexões enquanto estudo — 
 ---
 
 ## 📂 Estrutura
-```
-A estrutura do vault é simples e modular — cada pasta contém anotações de uma etapa do aprendizado:
 
+A estrutura do vault é simples e modular — cada pasta contém anotações de uma etapa do aprendizado:
+````
 📦 Obsidian-vault/
 ├── ☕ Java/
-│ ├── 01 - Fundamentos/
-│ ├── 02 - Orientação a Objetos/
-│ ├── 03 - Collections/
-│ ├── 04 - Streams/
-│ ├── 05 - Exceções/
-│ ├── 06 - I/O e Threads/
-│ └── 07 - Spring Boot/
-├── 🧩 Projetos e Exercícios/
-└── 📘 Referências/
-
+│ ├── 01 - Fundamentos/[conteudo]
+│ ├── 02 - Orientação a Objetos/[conteudo]
+│ ├── 03 - Collections/[conteudo]
+│ ├── 04 - Streams/[conteudo]
+│ ├── 05 - Exceções/[conteudo]
+│ ├── 06 - I/O e Threads/[conteudo]
+│ └── 07 - Spring Boot/[conteudo]
+├── 🧩 Projetos e Exercícios/[conteudo]
+└── 📘 Referências/[conteudo]
+````
 > Cada nota é escrita em Markdown e organizada cronologicamente, representando o progresso no aprendizado.
 
 ---
