@@ -171,12 +171,13 @@
   },
   "active": "da0b728470e341a0",
   "lastOpenFiles": [
+    "Java/More of OPP/Inheritance - herança.md",
+    "Java/More of OPP/Enum.md",
     "assets~HEAD",
     "README.md",
     "assets/banner.png",
     "assets",
     "Java/More of OPP/Interfaces.md",
-    "Java/More of OPP/Enum.md",
     "Java/More of OPP/Encapsulation.md",
     "Java/More of OPP/Method Chaining.md",
     "Java/More of OPP/Abstract.md",
@@ -185,7 +186,6 @@
     "Sem título.base",
     "Sem título 2.base",
     "Sem título 1.base",
-    "Java/More of OPP/Inheritance - herança.md",
     "Java/More of OPP/Object Lifecycle.md",
     "Java/Basics of OPP/Final KeyWord.md",
     "Java/More of OPP",
@@ -209,7 +209,6 @@
     "Comandos/Git reset.md",
     "Comandos/git branch -M main (ou master).md",
     "Comandos",
-    "Git e Github",
     "Sem título.canvas"
   ]
 }

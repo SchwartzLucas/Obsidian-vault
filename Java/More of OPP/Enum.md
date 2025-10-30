@@ -182,3 +182,88 @@ System.out.println(level.getLevelCode());
 O output será 3 (porque está variável é Level.HIGH com o valor constante de 3).
 
 Os métodos não estão restritos a métodos simples de get e set. Você também pode criar métodos que fazem cálculos baseados nos valores de campo da constante do enum. Se seus campos não forem declarados `final`você pode até modificar os valores dos campos (embora isso possa não ser uma ideia tão boa, considerando que o suposto é enums serem constantes).
+
+## Métodos abstratos
+
+É possível que uma classe de enum tenha métodos abstratos também. Se uma classe enum tem um método abstrato, então cada instância da classe enum deve implementá-la. Aqui está um exemplo de método abstrato de enum:
+
+```
+package Enums;  
+  
+public enum LevelTwo {  
+        HIGH{  
+            @Override  
+            public String asLowerCase() {  
+                return HIGH.toString().toLowerCase();  
+            }  
+        },  
+        MEDIUM{  
+            @Override  
+            public String asLowerCase() {  
+                return MEDIUM.toString().toLowerCase();  
+            }  
+        },  
+        LOW{  
+            @Override  
+            public String asLowerCase() {  
+                return LOW.toString().toLowerCase();  
+            }  
+        };  
+  
+        public abstract String asLowerCase();  
+    }
+```
+
+Observe a declaração do método abstrato na parte inferior da classe enum. Observe também como cada instância do enum (cada constante) define sua própria implementação deste método abstrato. Usar um método abstrato é útil quando você precisa de uma implementação diferente de um método para cada instância de um enum.
+
+## Enum interface
+
+Um `Enum`pode implementar uma [Interface Java](https://jenkov.com/tutorials/java/interfaces.html) no caso de você sentir que faz sentido na sua situação. Aqui está um exemplo de um `Enum`implementação de uma interface:
+
+```
+package Enums;  
+  
+public enum EnumImplementingInterface implements MyInterface{  
+  
+    FIRST("First Value"), SECOND("Second Value");  
+  
+  
+    private String description = null;  
+  
+    private EnumImplementingInterface(String desc){  
+        this.description = desc;  
+    }  
+  
+    @Override  
+    public String getDescription() {  
+        return this.description;  
+    }  
+}
+```
+
+É o método `getDescription()`que vem da interface `MyInterface`.
+
+Implementação de uma interface com um `Enum`poderia ser usado para implementar um conjunto de diferentes `Comparator`constantes que podem ser usadas para classificar coleções de objetos. Classificação de objetos em Java é explicado mais detalhadamente no [Tutorial de Classificação](https://jenkov.com/java-collections/sorting.html) de [Coleção Java](https://jenkov.com/java-collections/sorting.html).
+
+## Enum Set 
+
+Java contém uma implementação especial [do Java Set](https://jenkov.com/java-collections/set.html) chamada `EnumSet`que pode segurar enums mais eficientemente do que as implementações padrão do Java Set. Aqui está como você cria uma instância de uma `EnumSet`:
+
+```
+EnumSet<Level> enumSet = EnumSet.of(Level.HIGH, Level.MEDIUM);
+```
+
+Uma vez criado, você pode usar o `EnumSet`assim como qualquer outro Conjunto.
+
+## Enum Map
+
+O Java também contém uma implementação especial [do Java Map](https://jenkov.com/java-collection/map.html) que pode usar instâncias enum como chaves. Aqui está um `EnumMap`exemplo:
+
+```
+EnumMap<Level, String> enumMap = new EnumMap<Level, String>(Level.class);
+enumMap.put(Level.HIGH  , "High level");
+enumMap.put(Level.MEDIUM, "Medium level");
+enumMap.put(Level.LOW   , "Low level");
+
+String levelValue = enumMap.get(Level.HIGH);
+```
