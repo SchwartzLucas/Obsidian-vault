@@ -171,6 +171,10 @@
   },
   "active": "da0b728470e341a0",
   "lastOpenFiles": [
+    "assets~HEAD",
+    "README.md",
+    "assets/banner.png",
+    "assets",
     "Java/More of OPP/Interfaces.md",
     "Java/More of OPP/Enum.md",
     "Java/More of OPP/Encapsulation.md",
@@ -204,9 +208,7 @@
     "Comandos/git commit -m \"Mensagem explicativa\".md",
     "Comandos/Git reset.md",
     "Comandos/git branch -M main (ou master).md",
-    "Comandos/Git init.md",
     "Comandos",
-    "Comandos/git add ..md",
     "Git e Github",
     "Sem título.canvas"
   ]
