@@ -1,6 +1,6 @@
-Facilitam a modelagem de dados imutáveis
-São essencialmente classes finais (final)
-Atributos finais (final)
+	Facilitam a modelagem de dados imutáveis
+	São essencialmente classes finais (final)
+	Atributos finais (final)
 
 Fornece implementações dos métodos
 	Equals

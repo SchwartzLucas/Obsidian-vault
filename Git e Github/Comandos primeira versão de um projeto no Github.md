@@ -1,5 +1,5 @@
 
-[[git init]]
+[[Git init]]
 
 [[git add . ]]
 

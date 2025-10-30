@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/More of OPP/Enum.md",
+                "file": "Java/More of OPP/Records.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enum"
+              "title": "Records"
             }
           }
         ]
@@ -169,10 +169,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "da0b728470e341a0",
+  "active": "c1318079dab58a5e",
   "lastOpenFiles": [
-    "Java/More of OPP/Inheritance - herança.md",
+    "Delegates.md",
+    "Java/More of OPP/Records.md",
+    "Expressões Lambda.md",
+    "Sem título.md",
     "Java/More of OPP/Enum.md",
+    "Java/More of OPP/Inheritance - herança.md",
     "assets~HEAD",
     "README.md",
     "assets/banner.png",
@@ -182,7 +186,6 @@
     "Java/More of OPP/Method Chaining.md",
     "Java/More of OPP/Abstract.md",
     "Java/Basics of OPP/Static KeyWord.md",
-    "Sem título.md",
     "Sem título.base",
     "Sem título 2.base",
     "Sem título 1.base",
@@ -192,9 +195,7 @@
     "Java/Basics of OPP/Classes Ands Objects.md",
     "Java/Basics of OPP/Access Specifiers (Modificadores de acesso).md",
     "Java/Basics of OPP",
-    "Expressões Lambda.md",
-    "Delegates.md",
-    "Pasted image 20251023210138.png",
+    "Java/Pasted image 20251023210138.png",
     "Git e Github/Gerando uma nova SSH no meu computador.md",
     "Git e Github/Repositório local e remoto.md",
     "API em csharp/Pakages.md",
@@ -203,12 +204,12 @@
     "Git e Github/Comandos primeira versão de um projeto no Github.md",
     "Java",
     "API em csharp/Migrations.md",
-    "Comandos/git checkout -b \"NomeDaBranch.md",
+    "Git e Github/Comandos/git checkout -b \"NomeDaBranch.md",
     "API em csharp",
-    "Comandos/git commit -m \"Mensagem explicativa\".md",
-    "Comandos/Git reset.md",
-    "Comandos/git branch -M main (ou master).md",
-    "Comandos",
+    "Git e Github/Comandos/git commit -m \"Mensagem explicativa\".md",
+    "Git e Github/Comandos/Git reset.md",
+    "Git e Github/Comandos/git branch -M main (ou master).md",
+    "Git e Github/Comandos",
     "Sem título.canvas"
   ]
 }
