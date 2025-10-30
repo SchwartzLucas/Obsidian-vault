@@ -1,4 +1,4 @@
-<p align="center"><strong> ☕ Java Vault – Daily Study Log </strong></p>
+<p style="font-weight: bold; font-size: 20px;"> ☕ Java Vault – Daily Study Log </p>
 
 ![Banner](https://raw.githubusercontent.com/SchwartzLucas/Obsidian-vault/main/assets/banner.png)
 
