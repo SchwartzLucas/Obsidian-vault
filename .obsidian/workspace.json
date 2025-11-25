@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/More of OPP/Static Vs Dynamic Binding.md",
+                "file": "Ext Js 6.2.0/Formato padrão para linkar no html.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Static Vs Dynamic Binding"
+              "title": "Formato padrão para linkar no html"
             }
           }
         ]
@@ -171,8 +171,12 @@
   },
   "active": "da0b728470e341a0",
   "lastOpenFiles": [
-    "Java/More of OPP/Overloading e Overriding.md",
+    "Ext Js 6.2.0/Criação de classes.md",
+    "Ext Js 6.2.0/Formato padrão para linkar no html.md",
+    "assets/banner.png",
+    "Ext Js 6.2.0",
     "Java/More of OPP/Static Vs Dynamic Binding.md",
+    "Java/More of OPP/Overloading e Overriding.md",
     "README.md",
     "Java/More of OPP/Initializer Block.md",
     "Java/More of OPP/Records.md",
@@ -182,7 +186,6 @@
     "Java/More of OPP/Enum.md",
     "Java/More of OPP/Inheritance - herança.md",
     "assets~HEAD",
-    "assets/banner.png",
     "assets",
     "Java/More of OPP/Interfaces.md",
     "Java/More of OPP/Encapsulation.md",
@@ -206,10 +209,7 @@
     "Git e Github/Configuração inicial do Git.md",
     "Git e Github/Comandos primeira versão de um projeto no Github.md",
     "Java",
-    "API em csharp/Migrations.md",
-    "Git e Github/Comandos/git checkout -b \"NomeDaBranch.md",
     "API em csharp",
-    "Git e Github/Comandos",
     "Sem título.canvas"
   ]
 }
